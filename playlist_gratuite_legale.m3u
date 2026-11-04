@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ARTE" group-title="Documentaires",ARTE
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-name="CGTN Français" group-title="Information",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-name="TV5MONDE Info" group-title="Information",TV5MONDE Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1 tvg-name="TV5MONDE FBS" group-title="Généraliste",TV5MONDE FBS
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
+#EXTINF:-1 tvg-name="TV5MONDE Europe" group-title="Généraliste",TV5MONDE Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
